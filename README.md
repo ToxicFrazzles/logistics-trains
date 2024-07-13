@@ -15,4 +15,4 @@ To set up a station you will need:
 * Portable fluid/storage interface 
 * Cables and modems to connect the station to the computer. Provider stations also require storage and the interface to be connected to the wired network.
 
-I will not provide support for the use of this first verison or do any bugfixes. I also currently host the Lua files on my webserver and this could go down without warning. If the first version is no longer hosted on my webserver you can find it in the second commit to this repo.
+I will not provide support for the use of this first verison or do any bugfixes. I also currently host the Lua files on my webserver and this could go down without warning. If the first version is no longer hosted on my webserver you can find it in the [second commit to this repo](https://github.com/ToxicFrazzles/logistics-trains/tree/c7a0ba96cca2fe376c1ddd1ad5ad97cb724bff9d/server/computer/station).
